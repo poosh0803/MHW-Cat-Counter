@@ -8,5 +8,6 @@ A program for counting cat-cart times in Monster Hunter: World
   </p>
 </div>
 
-![alt text](https://imgur.com/f07XkZs)
+How to capture counter
+https://imgur.com/f07XkZs
 
