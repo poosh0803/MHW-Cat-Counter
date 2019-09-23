@@ -1,6 +1,7 @@
 # MHW-Cat-Counter
 A program for counting cat-cart times in Monster Hunter: World <br/>
-[Important!] This program require java to run. ![[Download Java]](https://www.java.com) \
+[Important!] This program require java to run. \
+![[Download Java]](https://www.java.com) \
 \
 \
 Please click here for release page [下載頁面]: \
