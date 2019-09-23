@@ -1,4 +1,4 @@
-# MHW-Cat-Counter
+# MHW-Cat-Counter 貓車計數器
 A program for counting cat-cart times in Monster Hunter: World <br/>
 [Important!] This program require JAVA to run.[需要JAVA才能執行] \
 ![[Download Java]](https://www.java.com) \
